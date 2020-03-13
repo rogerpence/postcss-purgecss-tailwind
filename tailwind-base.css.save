@@ -1,0 +1,11 @@
+/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+/* purgecss end ignore */
+
+@tailwind utilities;
+
+@import url("resources/css/extra.css")
+
+
+

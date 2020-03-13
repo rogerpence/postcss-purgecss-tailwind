@@ -1,0 +1,7 @@
+/*
+Put any custom CSS to come after Tailwind here.
+*/
+
+body {
+    background-color: blueviolet;
+}
